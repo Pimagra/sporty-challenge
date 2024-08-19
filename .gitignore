@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/pytest-cache
+/archive
+/assets
+/tests/*.png
+/venv
+pytest_html_report.html
+pytest_report.html
+output.json.html
